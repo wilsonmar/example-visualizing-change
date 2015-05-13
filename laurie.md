@@ -1,5 +1,5 @@
 # Laurie
 
-**Smiling:** `true`
+**Smiling:** `false`
 
-**Outfit:** Jeans and alligator polo
+**Outfit:** Striped summer dress

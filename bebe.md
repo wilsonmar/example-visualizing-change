@@ -1,5 +1,5 @@
 # Bebe
 
-**Smiling:** `false`
+**Smiling:** `true`
 
-**Outfit:** Linen slacks and chambray shirt
+**Outfit:** Striped summer dress

@@ -1,5 +1,5 @@
 # Photo Information
 
-**Year:** 1975
+**Year:** 1976
 
-**City: ** New Canaan, Connecticut
+**City: ** Hartford, Connecticut

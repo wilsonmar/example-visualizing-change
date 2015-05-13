@@ -1,5 +1,5 @@
 # Heather
 
-**Smiling:** `false`
+**Smiling:** `true`
 
-**Outfit:** Slacks and Striped Shirt
+**Outfit:** Christmas light dress and cardigan

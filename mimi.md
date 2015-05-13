@@ -1,5 +1,5 @@
 # Mimi
 
-**Smiling:** `false`
+**Smiling:** `true`
 
-**Outfit:** Jeans and White Shirt
+**Outfit:** Blue summer dress
