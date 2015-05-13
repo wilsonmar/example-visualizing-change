@@ -1,0 +1,5 @@
+# Photo Information
+
+**Year:**
+
+**City: **
