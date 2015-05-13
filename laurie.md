@@ -1,5 +1,5 @@
 # Laurie
 
-**Smiling:**
+**Smiling:** `true`
 
-**Outfit:**
+**Outfit:** Jeans and alligator polo

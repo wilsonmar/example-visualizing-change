@@ -1,5 +1,5 @@
 # Mimi
 
-**Smiling:**
+**Smiling:** `false`
 
-**Outfit:**
+**Outfit:** Jeans and White Shirt

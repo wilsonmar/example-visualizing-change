@@ -1,5 +1,5 @@
 # Photo Information
 
-**Year:**
+**Year:** 1975
 
-**City: **
+**City: ** New Canaan, Connecticut

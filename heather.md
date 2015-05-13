@@ -1,5 +1,5 @@
 # Heather
 
-**Smiling:**
+**Smiling:** `false`
 
-**Outfit:** 
+**Outfit:** Slacks and Striped Shirt

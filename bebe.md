@@ -1,5 +1,5 @@
 # Bebe
 
-**Smiling:**
+**Smiling:** `false`
 
-**Outfit:**
+**Outfit:** Linen slacks and chambray shirt
