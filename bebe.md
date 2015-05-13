@@ -1,5 +1,5 @@
 # Bebe
 
-**Smiling:** `true`
+**Smiling:** `false`
 
-**Outfit:** Jeans with black vest
+**Outfit:** White tank top

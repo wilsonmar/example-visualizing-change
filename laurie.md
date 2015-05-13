@@ -2,4 +2,4 @@
 
 **Smiling:** `false`
 
-**Outfit:** Jeans and striped turtleneck
+**Outfit:** Striped scoop-neck shirt

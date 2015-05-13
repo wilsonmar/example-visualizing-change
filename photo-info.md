@@ -1,5 +1,5 @@
 # Photo Information
 
-**Year:** 1977
+**Year:** 1978
 
-**City: ** Cambridge, Massachusetts
+**City: ** Harwich Port, Massachusetts

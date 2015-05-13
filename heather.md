@@ -2,4 +2,4 @@
 
 **Smiling:** `false`
 
-**Outfit:** Denim slacks and plaid shirt
+**Outfit:** White scoop-neck shirt

@@ -2,4 +2,4 @@
 
 **Smiling:** `false`
 
-**Outfit:** Black jeans and ivy turtleneck
+**Outfit:** Red tank top
