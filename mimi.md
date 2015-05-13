@@ -1,5 +1,5 @@
 # Mimi
 
-**Smiling:** `true`
+**Smiling:** `false`
 
-**Outfit:** Blue summer dress
+**Outfit:** Black jeans and ivy turtleneck

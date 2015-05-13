@@ -2,4 +2,4 @@
 
 **Smiling:** `false`
 
-**Outfit:** Striped summer dress
+**Outfit:** Jeans and striped turtleneck

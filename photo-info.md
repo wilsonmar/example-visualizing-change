@@ -1,5 +1,5 @@
 # Photo Information
 
-**Year:** 1976
+**Year:** 1977
 
-**City: ** Hartford, Connecticut
+**City: ** Cambridge, Massachusetts
